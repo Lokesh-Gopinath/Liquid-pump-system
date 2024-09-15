@@ -1,0 +1,12 @@
+sensors:
+1.dht11. (for measuring temperature of the pump)
+
+microcontroller used:
+1.esp 8266(node-mcu).
+
+components used:
+1.relay.
+2.pump.
+
+application used:
+1.Blynk.
